@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "firstName": "Арген",
+      "lastName": "Озгонбеков",
+      "phoneNum": "6",
+      "email": "@user34836753",
+      "id": 3
+    },
+    {
+      "firstName": "Айдай",
+      "lastName": "Исраилова",
+      "phoneNum": "5",
+      "email": "@aidaiisrailova1",
+      "id": 4
+    },
+    {
+      "firstName": "Malik",
+      "lastName": "Sumazov",
+      "phoneNum": "4",
+      "email": "@maliksumazov",
+      "id": 5
+    },
+    {
+      "firstName": "Александр",
+      "lastName": "Пушкин",
+      "phoneNum": "0555 55 88 99",
+      "email": "pushkin@gmail.com",
+      "id": 6
+    },
+    {
+      "firstName": "Адилет",
+      "lastName": "Алымбеков",
+      "phoneNum": "7",
+      "email": "@frontend96920979",
+      "id": 7
+    },
+    {
+      "firstName": "Кубат",
+      "lastName": "Абдрахман уулу",
+      "phoneNum": "789456123",
+      "email": "kubat@gmail.com",
+      "id": 8
+    }
+  ]
+}
